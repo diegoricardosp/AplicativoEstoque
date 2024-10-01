@@ -1,0 +1,12 @@
+O que foi feito:
+Menu principal
+Cadastro de itens
+Exclusão de itens 
+Procura de itens
+
+O que fazer: 
+criar condição para não cadastrar 2 produtos
+função procestoq fazer como def
+Opção para voltar ao menu principal em todas as telas
+Conectividade com banco de dados
+Procurar valores por apenas pedaços digitados, por exemplo, usuário digitar "Can" e app sugerir "Caneta".
